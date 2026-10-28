@@ -1,0 +1,587 @@
+Month,Depot,Country,Outcome,Qty
+2025-01,Depot A - Central EU,Germany,Dispensed,14
+2025-01,Depot A - Central EU,Germany,Expired at Site,1
+2025-01,Depot A - Central EU,Germany,Returned,1
+2025-01,Depot A - Central EU,France,Dispensed,10
+2025-01,Depot A - Central EU,France,Expired at Site,1
+2025-01,Depot A - Central EU,France,Returned,1
+2025-01,Depot A - Central EU,Spain,Dispensed,7
+2025-01,Depot A - Central EU,,Expired at Depot,3
+2025-01,Depot B - United Kingdom,United Kingdom,Dispensed,13
+2025-01,Depot B - United Kingdom,United Kingdom,Expired at Site,1
+2025-01,Depot B - United Kingdom,United Kingdom,Returned,1
+2025-01,Depot B - United Kingdom,France,Dispensed,5
+2025-01,Depot B - United Kingdom,Spain,Dispensed,5
+2025-01,Depot B - United Kingdom,Spain,Returned,1
+2025-01,Depot B - United Kingdom,,Expired at Depot,2
+2025-01,Depot C - North America,United States,Dispensed,24
+2025-01,Depot C - North America,United States,Expired at Site,1
+2025-01,Depot C - North America,United States,Returned,2
+2025-01,Depot C - North America,Canada,Dispensed,8
+2025-01,Depot C - North America,Canada,Expired at Site,1
+2025-01,Depot C - North America,,Expired at Depot,1
+2025-01,Depot D - Latin America,Brazil,Dispensed,10
+2025-01,Depot D - Latin America,Brazil,Expired at Site,1
+2025-01,Depot D - Latin America,Brazil,Returned,1
+2025-01,Depot D - Latin America,Mexico,Dispensed,8
+2025-01,Depot D - Latin America,Mexico,Expired at Site,1
+2025-01,Depot D - Latin America,,Expired at Depot,6
+2025-01,Depot E - Asia Pacific,Japan,Dispensed,13
+2025-01,Depot E - Asia Pacific,Japan,Expired at Site,1
+2025-01,Depot E - Asia Pacific,Japan,Returned,1
+2025-01,Depot E - Asia Pacific,South Korea,Dispensed,7
+2025-01,Depot E - Asia Pacific,South Korea,Expired at Site,1
+2025-01,Depot E - Asia Pacific,South Korea,Returned,1
+2025-01,Depot E - Asia Pacific,Australia,Dispensed,4
+2025-01,Depot E - Asia Pacific,Australia,Expired at Site,1
+2025-01,Depot E - Asia Pacific,Australia,Returned,1
+2025-01,Depot E - Asia Pacific,,Expired at Depot,6
+2025-02,Depot A - Central EU,Germany,Dispensed,17
+2025-02,Depot A - Central EU,Germany,Expired at Site,1
+2025-02,Depot A - Central EU,Germany,Returned,2
+2025-02,Depot A - Central EU,France,Dispensed,13
+2025-02,Depot A - Central EU,France,Expired at Site,1
+2025-02,Depot A - Central EU,France,Returned,1
+2025-02,Depot A - Central EU,Spain,Dispensed,9
+2025-02,Depot A - Central EU,Spain,Expired at Site,1
+2025-02,Depot A - Central EU,Spain,Returned,1
+2025-02,Depot B - United Kingdom,United Kingdom,Dispensed,18
+2025-02,Depot B - United Kingdom,United Kingdom,Expired at Site,1
+2025-02,Depot B - United Kingdom,United Kingdom,Damaged,1
+2025-02,Depot B - United Kingdom,United Kingdom,Returned,2
+2025-02,Depot B - United Kingdom,France,Dispensed,6
+2025-02,Depot B - United Kingdom,France,Returned,1
+2025-02,Depot B - United Kingdom,Spain,Dispensed,7
+2025-02,Depot B - United Kingdom,,Expired at Depot,3
+2025-02,Depot C - North America,United States,Dispensed,26
+2025-02,Depot C - North America,United States,Expired at Site,1
+2025-02,Depot C - North America,United States,Damaged,1
+2025-02,Depot C - North America,United States,Returned,3
+2025-02,Depot C - North America,Canada,Dispensed,9
+2025-02,Depot C - North America,Canada,Expired at Site,1
+2025-02,Depot C - North America,Canada,Returned,1
+2025-02,Depot D - Latin America,Brazil,Dispensed,12
+2025-02,Depot D - Latin America,Brazil,Expired at Site,1
+2025-02,Depot D - Latin America,Brazil,Returned,1
+2025-02,Depot D - Latin America,Mexico,Dispensed,9
+2025-02,Depot D - Latin America,Mexico,Expired at Site,2
+2025-02,Depot D - Latin America,Mexico,Returned,1
+2025-02,Depot D - Latin America,,Expired at Depot,5
+2025-02,Depot E - Asia Pacific,Japan,Dispensed,15
+2025-02,Depot E - Asia Pacific,Japan,Expired at Site,1
+2025-02,Depot E - Asia Pacific,Japan,Damaged,1
+2025-02,Depot E - Asia Pacific,Japan,Returned,1
+2025-02,Depot E - Asia Pacific,South Korea,Dispensed,12
+2025-02,Depot E - Asia Pacific,South Korea,Expired at Site,1
+2025-02,Depot E - Asia Pacific,South Korea,Returned,1
+2025-02,Depot E - Asia Pacific,Australia,Dispensed,8
+2025-02,Depot E - Asia Pacific,Australia,Expired at Site,1
+2025-02,Depot E - Asia Pacific,,Expired at Depot,8
+2025-03,Depot A - Central EU,Germany,Dispensed,26
+2025-03,Depot A - Central EU,Germany,Expired at Site,2
+2025-03,Depot A - Central EU,Germany,Damaged,1
+2025-03,Depot A - Central EU,Germany,Returned,1
+2025-03,Depot A - Central EU,France,Dispensed,13
+2025-03,Depot A - Central EU,France,Expired at Site,1
+2025-03,Depot A - Central EU,France,Returned,1
+2025-03,Depot A - Central EU,Spain,Dispensed,8
+2025-03,Depot A - Central EU,Spain,Expired at Site,1
+2025-03,Depot A - Central EU,Spain,Returned,1
+2025-03,Depot A - Central EU,,Expired at Depot,5
+2025-03,Depot B - United Kingdom,United Kingdom,Dispensed,18
+2025-03,Depot B - United Kingdom,United Kingdom,Expired at Site,2
+2025-03,Depot B - United Kingdom,United Kingdom,Damaged,1
+2025-03,Depot B - United Kingdom,United Kingdom,Returned,2
+2025-03,Depot B - United Kingdom,France,Dispensed,9
+2025-03,Depot B - United Kingdom,France,Expired at Site,1
+2025-03,Depot B - United Kingdom,France,Returned,1
+2025-03,Depot B - United Kingdom,Spain,Dispensed,8
+2025-03,Depot B - United Kingdom,Spain,Returned,1
+2025-03,Depot B - United Kingdom,,Expired at Depot,5
+2025-03,Depot C - North America,United States,Dispensed,36
+2025-03,Depot C - North America,United States,Expired at Site,2
+2025-03,Depot C - North America,United States,Damaged,1
+2025-03,Depot C - North America,United States,Returned,2
+2025-03,Depot C - North America,Canada,Dispensed,12
+2025-03,Depot C - North America,Canada,Expired at Site,1
+2025-03,Depot C - North America,Canada,Returned,1
+2025-03,Depot C - North America,,Expired at Depot,8
+2025-03,Depot D - Latin America,Brazil,Dispensed,17
+2025-03,Depot D - Latin America,Brazil,Expired at Site,2
+2025-03,Depot D - Latin America,Brazil,Damaged,1
+2025-03,Depot D - Latin America,Brazil,Returned,1
+2025-03,Depot D - Latin America,Mexico,Dispensed,13
+2025-03,Depot D - Latin America,Mexico,Expired at Site,2
+2025-03,Depot D - Latin America,Mexico,Returned,1
+2025-03,Depot D - Latin America,,Expired at Depot,8
+2025-03,Depot E - Asia Pacific,Japan,Dispensed,16
+2025-03,Depot E - Asia Pacific,Japan,Expired at Site,1
+2025-03,Depot E - Asia Pacific,Japan,Returned,2
+2025-03,Depot E - Asia Pacific,South Korea,Dispensed,12
+2025-03,Depot E - Asia Pacific,South Korea,Expired at Site,1
+2025-03,Depot E - Asia Pacific,South Korea,Returned,1
+2025-03,Depot E - Asia Pacific,Australia,Dispensed,9
+2025-03,Depot E - Asia Pacific,Australia,Expired at Site,1
+2025-03,Depot E - Asia Pacific,Australia,Returned,1
+2025-03,Depot E - Asia Pacific,,Expired at Depot,3
+2025-04,Depot A - Central EU,Germany,Dispensed,30
+2025-04,Depot A - Central EU,Germany,Expired at Site,3
+2025-04,Depot A - Central EU,Germany,Damaged,1
+2025-04,Depot A - Central EU,Germany,Returned,2
+2025-04,Depot A - Central EU,France,Dispensed,19
+2025-04,Depot A - Central EU,France,Expired at Site,1
+2025-04,Depot A - Central EU,France,Damaged,1
+2025-04,Depot A - Central EU,France,Returned,2
+2025-04,Depot A - Central EU,Spain,Dispensed,10
+2025-04,Depot A - Central EU,Spain,Expired at Site,1
+2025-04,Depot A - Central EU,Spain,Returned,1
+2025-04,Depot B - United Kingdom,United Kingdom,Dispensed,27
+2025-04,Depot B - United Kingdom,United Kingdom,Expired at Site,3
+2025-04,Depot B - United Kingdom,United Kingdom,Returned,2
+2025-04,Depot B - United Kingdom,France,Dispensed,8
+2025-04,Depot B - United Kingdom,France,Expired at Site,1
+2025-04,Depot B - United Kingdom,France,Returned,1
+2025-04,Depot B - United Kingdom,Spain,Dispensed,10
+2025-04,Depot B - United Kingdom,Spain,Expired at Site,1
+2025-04,Depot B - United Kingdom,,Expired at Depot,4
+2025-04,Depot C - North America,United States,Dispensed,35
+2025-04,Depot C - North America,United States,Expired at Site,3
+2025-04,Depot C - North America,United States,Damaged,1
+2025-04,Depot C - North America,United States,Returned,2
+2025-04,Depot C - North America,Canada,Dispensed,17
+2025-04,Depot C - North America,Canada,Expired at Site,1
+2025-04,Depot C - North America,Canada,Returned,1
+2025-04,Depot C - North America,,Expired at Depot,8
+2025-04,Depot D - Latin America,Brazil,Dispensed,19
+2025-04,Depot D - Latin America,Brazil,Expired at Site,3
+2025-04,Depot D - Latin America,Brazil,Returned,2
+2025-04,Depot D - Latin America,Mexico,Dispensed,11
+2025-04,Depot D - Latin America,Mexico,Expired at Site,2
+2025-04,Depot D - Latin America,Mexico,Returned,1
+2025-04,Depot D - Latin America,,Expired at Depot,6
+2025-04,Depot E - Asia Pacific,Japan,Dispensed,21
+2025-04,Depot E - Asia Pacific,Japan,Expired at Site,2
+2025-04,Depot E - Asia Pacific,Japan,Damaged,1
+2025-04,Depot E - Asia Pacific,Japan,Returned,2
+2025-04,Depot E - Asia Pacific,South Korea,Dispensed,19
+2025-04,Depot E - Asia Pacific,South Korea,Expired at Site,1
+2025-04,Depot E - Asia Pacific,South Korea,Returned,1
+2025-04,Depot E - Asia Pacific,Australia,Dispensed,10
+2025-04,Depot E - Asia Pacific,Australia,Expired at Site,1
+2025-04,Depot E - Asia Pacific,Australia,Returned,1
+2025-04,Depot E - Asia Pacific,,Expired at Depot,2
+2025-05,Depot A - Central EU,Germany,Dispensed,30
+2025-05,Depot A - Central EU,Germany,Expired at Site,2
+2025-05,Depot A - Central EU,Germany,Damaged,1
+2025-05,Depot A - Central EU,Germany,Returned,1
+2025-05,Depot A - Central EU,France,Dispensed,20
+2025-05,Depot A - Central EU,France,Expired at Site,2
+2025-05,Depot A - Central EU,France,Damaged,1
+2025-05,Depot A - Central EU,France,Returned,2
+2025-05,Depot A - Central EU,Spain,Dispensed,14
+2025-05,Depot A - Central EU,Spain,Expired at Site,1
+2025-05,Depot A - Central EU,Spain,Returned,1
+2025-05,Depot A - Central EU,,Expired at Depot,2
+2025-05,Depot B - United Kingdom,United Kingdom,Dispensed,24
+2025-05,Depot B - United Kingdom,United Kingdom,Expired at Site,3
+2025-05,Depot B - United Kingdom,United Kingdom,Returned,1
+2025-05,Depot B - United Kingdom,France,Dispensed,11
+2025-05,Depot B - United Kingdom,France,Expired at Site,1
+2025-05,Depot B - United Kingdom,France,Returned,1
+2025-05,Depot B - United Kingdom,Spain,Dispensed,14
+2025-05,Depot B - United Kingdom,Spain,Expired at Site,1
+2025-05,Depot B - United Kingdom,Spain,Returned,1
+2025-05,Depot B - United Kingdom,,Expired at Depot,3
+2025-05,Depot C - North America,United States,Dispensed,43
+2025-05,Depot C - North America,United States,Expired at Site,4
+2025-05,Depot C - North America,United States,Damaged,1
+2025-05,Depot C - North America,United States,Returned,4
+2025-05,Depot C - North America,Canada,Dispensed,18
+2025-05,Depot C - North America,Canada,Expired at Site,1
+2025-05,Depot C - North America,Canada,Damaged,1
+2025-05,Depot C - North America,Canada,Returned,2
+2025-05,Depot C - North America,,Expired at Depot,8
+2025-05,Depot D - Latin America,Brazil,Dispensed,26
+2025-05,Depot D - Latin America,Brazil,Expired at Site,4
+2025-05,Depot D - Latin America,Brazil,Damaged,1
+2025-05,Depot D - Latin America,Brazil,Returned,2
+2025-05,Depot D - Latin America,Mexico,Dispensed,14
+2025-05,Depot D - Latin America,Mexico,Expired at Site,2
+2025-05,Depot D - Latin America,Mexico,Returned,1
+2025-05,Depot D - Latin America,,Expired at Depot,1
+2025-05,Depot E - Asia Pacific,Japan,Dispensed,29
+2025-05,Depot E - Asia Pacific,Japan,Expired at Site,3
+2025-05,Depot E - Asia Pacific,Japan,Damaged,1
+2025-05,Depot E - Asia Pacific,Japan,Returned,2
+2025-05,Depot E - Asia Pacific,South Korea,Dispensed,19
+2025-05,Depot E - Asia Pacific,South Korea,Expired at Site,2
+2025-05,Depot E - Asia Pacific,South Korea,Returned,1
+2025-05,Depot E - Asia Pacific,Australia,Dispensed,12
+2025-05,Depot E - Asia Pacific,Australia,Expired at Site,1
+2025-05,Depot E - Asia Pacific,Australia,Returned,1
+2025-05,Depot E - Asia Pacific,,Expired at Depot,6
+2025-06,Depot A - Central EU,Germany,Dispensed,35
+2025-06,Depot A - Central EU,Germany,Expired at Site,4
+2025-06,Depot A - Central EU,Germany,Damaged,1
+2025-06,Depot A - Central EU,Germany,Returned,2
+2025-06,Depot A - Central EU,France,Dispensed,21
+2025-06,Depot A - Central EU,France,Expired at Site,2
+2025-06,Depot A - Central EU,France,Returned,1
+2025-06,Depot A - Central EU,Spain,Dispensed,18
+2025-06,Depot A - Central EU,Spain,Expired at Site,2
+2025-06,Depot A - Central EU,Spain,Returned,1
+2025-06,Depot A - Central EU,,Expired at Depot,8
+2025-06,Depot B - United Kingdom,United Kingdom,Dispensed,27
+2025-06,Depot B - United Kingdom,United Kingdom,Expired at Site,2
+2025-06,Depot B - United Kingdom,United Kingdom,Damaged,1
+2025-06,Depot B - United Kingdom,United Kingdom,Returned,2
+2025-06,Depot B - United Kingdom,France,Dispensed,12
+2025-06,Depot B - United Kingdom,France,Expired at Site,1
+2025-06,Depot B - United Kingdom,France,Returned,1
+2025-06,Depot B - United Kingdom,Spain,Dispensed,16
+2025-06,Depot B - United Kingdom,Spain,Expired at Site,1
+2025-06,Depot B - United Kingdom,Spain,Returned,1
+2025-06,Depot B - United Kingdom,,Expired at Depot,3
+2025-06,Depot C - North America,United States,Dispensed,65
+2025-06,Depot C - North America,United States,Expired at Site,5
+2025-06,Depot C - North America,United States,Damaged,1
+2025-06,Depot C - North America,United States,Returned,3
+2025-06,Depot C - North America,Canada,Dispensed,17
+2025-06,Depot C - North America,Canada,Expired at Site,2
+2025-06,Depot C - North America,Canada,Returned,2
+2025-06,Depot C - North America,,Expired at Depot,7
+2025-06,Depot D - Latin America,Brazil,Dispensed,22
+2025-06,Depot D - Latin America,Brazil,Expired at Site,4
+2025-06,Depot D - Latin America,Brazil,Damaged,1
+2025-06,Depot D - Latin America,Brazil,Returned,1
+2025-06,Depot D - Latin America,Mexico,Dispensed,17
+2025-06,Depot D - Latin America,Mexico,Expired at Site,3
+2025-06,Depot D - Latin America,Mexico,Damaged,1
+2025-06,Depot D - Latin America,Mexico,Returned,1
+2025-06,Depot D - Latin America,,Expired at Depot,2
+2025-06,Depot E - Asia Pacific,Japan,Dispensed,33
+2025-06,Depot E - Asia Pacific,Japan,Expired at Site,3
+2025-06,Depot E - Asia Pacific,Japan,Damaged,1
+2025-06,Depot E - Asia Pacific,Japan,Returned,3
+2025-06,Depot E - Asia Pacific,South Korea,Dispensed,24
+2025-06,Depot E - Asia Pacific,South Korea,Expired at Site,2
+2025-06,Depot E - Asia Pacific,South Korea,Returned,2
+2025-06,Depot E - Asia Pacific,Australia,Dispensed,15
+2025-06,Depot E - Asia Pacific,Australia,Expired at Site,3
+2025-06,Depot E - Asia Pacific,Australia,Returned,1
+2025-06,Depot E - Asia Pacific,,Expired at Depot,8
+2025-07,Depot A - Central EU,Germany,Dispensed,38
+2025-07,Depot A - Central EU,Germany,Expired at Site,4
+2025-07,Depot A - Central EU,Germany,Damaged,1
+2025-07,Depot A - Central EU,Germany,Returned,4
+2025-07,Depot A - Central EU,France,Dispensed,28
+2025-07,Depot A - Central EU,France,Expired at Site,3
+2025-07,Depot A - Central EU,France,Damaged,1
+2025-07,Depot A - Central EU,France,Returned,2
+2025-07,Depot A - Central EU,Spain,Dispensed,16
+2025-07,Depot A - Central EU,Spain,Expired at Site,2
+2025-07,Depot A - Central EU,Spain,Damaged,1
+2025-07,Depot A - Central EU,Spain,Returned,1
+2025-07,Depot B - United Kingdom,United Kingdom,Dispensed,29
+2025-07,Depot B - United Kingdom,United Kingdom,Expired at Site,3
+2025-07,Depot B - United Kingdom,United Kingdom,Damaged,1
+2025-07,Depot B - United Kingdom,United Kingdom,Returned,2
+2025-07,Depot B - United Kingdom,France,Dispensed,15
+2025-07,Depot B - United Kingdom,France,Expired at Site,2
+2025-07,Depot B - United Kingdom,France,Returned,2
+2025-07,Depot B - United Kingdom,Spain,Dispensed,17
+2025-07,Depot B - United Kingdom,Spain,Expired at Site,2
+2025-07,Depot B - United Kingdom,Spain,Returned,1
+2025-07,Depot B - United Kingdom,,Expired at Depot,6
+2025-07,Depot C - North America,United States,Dispensed,64
+2025-07,Depot C - North America,United States,Expired at Site,5
+2025-07,Depot C - North America,United States,Damaged,2
+2025-07,Depot C - North America,United States,Returned,5
+2025-07,Depot C - North America,Canada,Dispensed,22
+2025-07,Depot C - North America,Canada,Expired at Site,2
+2025-07,Depot C - North America,Canada,Damaged,1
+2025-07,Depot C - North America,Canada,Returned,2
+2025-07,Depot C - North America,,Expired at Depot,1
+2025-07,Depot D - Latin America,Brazil,Dispensed,27
+2025-07,Depot D - Latin America,Brazil,Expired at Site,5
+2025-07,Depot D - Latin America,Brazil,Damaged,1
+2025-07,Depot D - Latin America,Brazil,Returned,2
+2025-07,Depot D - Latin America,Mexico,Dispensed,21
+2025-07,Depot D - Latin America,Mexico,Expired at Site,3
+2025-07,Depot D - Latin America,Mexico,Damaged,1
+2025-07,Depot D - Latin America,Mexico,Returned,2
+2025-07,Depot D - Latin America,,Expired at Depot,45
+2025-07,Depot E - Asia Pacific,Japan,Dispensed,32
+2025-07,Depot E - Asia Pacific,Japan,Expired at Site,2
+2025-07,Depot E - Asia Pacific,Japan,Damaged,1
+2025-07,Depot E - Asia Pacific,Japan,Returned,1
+2025-07,Depot E - Asia Pacific,South Korea,Dispensed,27
+2025-07,Depot E - Asia Pacific,South Korea,Expired at Site,3
+2025-07,Depot E - Asia Pacific,South Korea,Damaged,1
+2025-07,Depot E - Asia Pacific,South Korea,Returned,3
+2025-07,Depot E - Asia Pacific,Australia,Dispensed,17
+2025-07,Depot E - Asia Pacific,Australia,Expired at Site,2
+2025-07,Depot E - Asia Pacific,Australia,Returned,1
+2025-07,Depot E - Asia Pacific,,Expired at Depot,4
+2025-08,Depot A - Central EU,Germany,Dispensed,41
+2025-08,Depot A - Central EU,Germany,Expired at Site,5
+2025-08,Depot A - Central EU,Germany,Damaged,1
+2025-08,Depot A - Central EU,Germany,Returned,2
+2025-08,Depot A - Central EU,France,Dispensed,23
+2025-08,Depot A - Central EU,France,Expired at Site,2
+2025-08,Depot A - Central EU,France,Returned,1
+2025-08,Depot A - Central EU,Spain,Dispensed,19
+2025-08,Depot A - Central EU,Spain,Expired at Site,2
+2025-08,Depot A - Central EU,Spain,Damaged,1
+2025-08,Depot A - Central EU,Spain,Returned,2
+2025-08,Depot B - United Kingdom,United Kingdom,Dispensed,43
+2025-08,Depot B - United Kingdom,United Kingdom,Expired at Site,4
+2025-08,Depot B - United Kingdom,United Kingdom,Damaged,1
+2025-08,Depot B - United Kingdom,United Kingdom,Returned,3
+2025-08,Depot B - United Kingdom,France,Dispensed,15
+2025-08,Depot B - United Kingdom,France,Expired at Site,2
+2025-08,Depot B - United Kingdom,France,Returned,2
+2025-08,Depot B - United Kingdom,Spain,Dispensed,18
+2025-08,Depot B - United Kingdom,Spain,Expired at Site,2
+2025-08,Depot B - United Kingdom,Spain,Returned,1
+2025-08,Depot B - United Kingdom,,Expired at Depot,1
+2025-08,Depot C - North America,United States,Dispensed,77
+2025-08,Depot C - North America,United States,Expired at Site,7
+2025-08,Depot C - North America,United States,Damaged,1
+2025-08,Depot C - North America,United States,Returned,8
+2025-08,Depot C - North America,Canada,Dispensed,23
+2025-08,Depot C - North America,Canada,Expired at Site,2
+2025-08,Depot C - North America,Canada,Damaged,1
+2025-08,Depot C - North America,Canada,Returned,1
+2025-08,Depot C - North America,,Expired at Depot,4
+2025-08,Depot D - Latin America,Brazil,Dispensed,30
+2025-08,Depot D - Latin America,Brazil,Expired at Site,7
+2025-08,Depot D - Latin America,Brazil,Damaged,1
+2025-08,Depot D - Latin America,Brazil,Returned,4
+2025-08,Depot D - Latin America,Mexico,Dispensed,27
+2025-08,Depot D - Latin America,Mexico,Expired at Site,4
+2025-08,Depot D - Latin America,Mexico,Returned,1
+2025-08,Depot D - Latin America,,Expired at Depot,6
+2025-08,Depot E - Asia Pacific,Japan,Dispensed,38
+2025-08,Depot E - Asia Pacific,Japan,Expired at Site,5
+2025-08,Depot E - Asia Pacific,Japan,Damaged,1
+2025-08,Depot E - Asia Pacific,Japan,Returned,3
+2025-08,Depot E - Asia Pacific,South Korea,Dispensed,23
+2025-08,Depot E - Asia Pacific,South Korea,Expired at Site,2
+2025-08,Depot E - Asia Pacific,South Korea,Damaged,1
+2025-08,Depot E - Asia Pacific,South Korea,Returned,2
+2025-08,Depot E - Asia Pacific,Australia,Dispensed,14
+2025-08,Depot E - Asia Pacific,Australia,Expired at Site,2
+2025-08,Depot E - Asia Pacific,Australia,Returned,1
+2025-08,Depot E - Asia Pacific,,Expired at Depot,8
+2025-09,Depot A - Central EU,Germany,Dispensed,49
+2025-09,Depot A - Central EU,Germany,Expired at Site,4
+2025-09,Depot A - Central EU,Germany,Damaged,2
+2025-09,Depot A - Central EU,Germany,Returned,3
+2025-09,Depot A - Central EU,France,Dispensed,29
+2025-09,Depot A - Central EU,France,Expired at Site,4
+2025-09,Depot A - Central EU,France,Damaged,1
+2025-09,Depot A - Central EU,France,Returned,1
+2025-09,Depot A - Central EU,Spain,Dispensed,21
+2025-09,Depot A - Central EU,Spain,Expired at Site,2
+2025-09,Depot A - Central EU,Spain,Damaged,1
+2025-09,Depot A - Central EU,Spain,Returned,1
+2025-09,Depot A - Central EU,,Expired at Depot,4
+2025-09,Depot B - United Kingdom,United Kingdom,Dispensed,32
+2025-09,Depot B - United Kingdom,United Kingdom,Expired at Site,4
+2025-09,Depot B - United Kingdom,United Kingdom,Damaged,1
+2025-09,Depot B - United Kingdom,United Kingdom,Returned,3
+2025-09,Depot B - United Kingdom,France,Dispensed,14
+2025-09,Depot B - United Kingdom,France,Expired at Site,2
+2025-09,Depot B - United Kingdom,France,Returned,1
+2025-09,Depot B - United Kingdom,Spain,Dispensed,16
+2025-09,Depot B - United Kingdom,Spain,Expired at Site,2
+2025-09,Depot B - United Kingdom,Spain,Returned,1
+2025-09,Depot B - United Kingdom,,Expired at Depot,1
+2025-09,Depot C - North America,United States,Dispensed,55
+2025-09,Depot C - North America,United States,Expired at Site,6
+2025-09,Depot C - North America,United States,Damaged,2
+2025-09,Depot C - North America,United States,Returned,5
+2025-09,Depot C - North America,Canada,Dispensed,18
+2025-09,Depot C - North America,Canada,Expired at Site,2
+2025-09,Depot C - North America,Canada,Damaged,1
+2025-09,Depot C - North America,Canada,Returned,2
+2025-09,Depot C - North America,,Expired at Depot,1
+2025-09,Depot D - Latin America,Brazil,Dispensed,34
+2025-09,Depot D - Latin America,Brazil,Expired at Site,5
+2025-09,Depot D - Latin America,Brazil,Damaged,1
+2025-09,Depot D - Latin America,Brazil,Returned,2
+2025-09,Depot D - Latin America,Mexico,Dispensed,22
+2025-09,Depot D - Latin America,Mexico,Expired at Site,4
+2025-09,Depot D - Latin America,Mexico,Returned,1
+2025-09,Depot D - Latin America,,Expired at Depot,5
+2025-09,Depot E - Asia Pacific,Japan,Dispensed,35
+2025-09,Depot E - Asia Pacific,Japan,Expired at Site,4
+2025-09,Depot E - Asia Pacific,Japan,Damaged,1
+2025-09,Depot E - Asia Pacific,Japan,Returned,2
+2025-09,Depot E - Asia Pacific,South Korea,Dispensed,22
+2025-09,Depot E - Asia Pacific,South Korea,Expired at Site,3
+2025-09,Depot E - Asia Pacific,South Korea,Damaged,1
+2025-09,Depot E - Asia Pacific,South Korea,Returned,1
+2025-09,Depot E - Asia Pacific,Australia,Dispensed,19
+2025-09,Depot E - Asia Pacific,Australia,Expired at Site,4
+2025-09,Depot E - Asia Pacific,Australia,Returned,1
+2025-10,Depot A - Central EU,Germany,Dispensed,43
+2025-10,Depot A - Central EU,Germany,Expired at Site,6
+2025-10,Depot A - Central EU,Germany,Damaged,1
+2025-10,Depot A - Central EU,Germany,Returned,4
+2025-10,Depot A - Central EU,France,Dispensed,31
+2025-10,Depot A - Central EU,France,Expired at Site,3
+2025-10,Depot A - Central EU,France,Returned,3
+2025-10,Depot A - Central EU,Spain,Dispensed,18
+2025-10,Depot A - Central EU,Spain,Expired at Site,2
+2025-10,Depot A - Central EU,Spain,Damaged,1
+2025-10,Depot A - Central EU,Spain,Returned,1
+2025-10,Depot A - Central EU,,Expired at Depot,8
+2025-10,Depot B - United Kingdom,United Kingdom,Dispensed,40
+2025-10,Depot B - United Kingdom,United Kingdom,Expired at Site,4
+2025-10,Depot B - United Kingdom,United Kingdom,Damaged,1
+2025-10,Depot B - United Kingdom,United Kingdom,Returned,3
+2025-10,Depot B - United Kingdom,France,Dispensed,19
+2025-10,Depot B - United Kingdom,France,Expired at Site,2
+2025-10,Depot B - United Kingdom,France,Returned,1
+2025-10,Depot B - United Kingdom,Spain,Dispensed,19
+2025-10,Depot B - United Kingdom,Spain,Expired at Site,2
+2025-10,Depot B - United Kingdom,Spain,Returned,1
+2025-10,Depot B - United Kingdom,,Expired at Depot,2
+2025-10,Depot C - North America,United States,Dispensed,53
+2025-10,Depot C - North America,United States,Expired at Site,6
+2025-10,Depot C - North America,United States,Damaged,1
+2025-10,Depot C - North America,United States,Returned,4
+2025-10,Depot C - North America,Canada,Dispensed,23
+2025-10,Depot C - North America,Canada,Expired at Site,2
+2025-10,Depot C - North America,Canada,Returned,2
+2025-10,Depot C - North America,,Expired at Depot,7
+2025-10,Depot D - Latin America,Brazil,Dispensed,31
+2025-10,Depot D - Latin America,Brazil,Expired at Site,5
+2025-10,Depot D - Latin America,Brazil,Damaged,1
+2025-10,Depot D - Latin America,Brazil,Returned,2
+2025-10,Depot D - Latin America,Mexico,Dispensed,21
+2025-10,Depot D - Latin America,Mexico,Expired at Site,3
+2025-10,Depot D - Latin America,Mexico,Damaged,1
+2025-10,Depot D - Latin America,Mexico,Returned,1
+2025-10,Depot D - Latin America,,Expired at Depot,6
+2025-10,Depot E - Asia Pacific,Japan,Dispensed,36
+2025-10,Depot E - Asia Pacific,Japan,Expired at Site,4
+2025-10,Depot E - Asia Pacific,Japan,Damaged,1
+2025-10,Depot E - Asia Pacific,Japan,Returned,3
+2025-10,Depot E - Asia Pacific,South Korea,Dispensed,26
+2025-10,Depot E - Asia Pacific,South Korea,Expired at Site,3
+2025-10,Depot E - Asia Pacific,South Korea,Damaged,1
+2025-10,Depot E - Asia Pacific,South Korea,Returned,2
+2025-10,Depot E - Asia Pacific,Australia,Dispensed,17
+2025-10,Depot E - Asia Pacific,Australia,Expired at Site,3
+2025-10,Depot E - Asia Pacific,Australia,Returned,1
+2025-10,Depot E - Asia Pacific,,Expired at Depot,7
+2025-11,Depot A - Central EU,Germany,Dispensed,44
+2025-11,Depot A - Central EU,Germany,Expired at Site,6
+2025-11,Depot A - Central EU,Germany,Damaged,1
+2025-11,Depot A - Central EU,Germany,Returned,4
+2025-11,Depot A - Central EU,France,Dispensed,26
+2025-11,Depot A - Central EU,France,Expired at Site,3
+2025-11,Depot A - Central EU,France,Damaged,1
+2025-11,Depot A - Central EU,France,Returned,2
+2025-11,Depot A - Central EU,Spain,Dispensed,17
+2025-11,Depot A - Central EU,Spain,Expired at Site,2
+2025-11,Depot A - Central EU,Spain,Returned,2
+2025-11,Depot A - Central EU,,Expired at Depot,4
+2025-11,Depot B - United Kingdom,United Kingdom,Dispensed,44
+2025-11,Depot B - United Kingdom,United Kingdom,Expired at Site,6
+2025-11,Depot B - United Kingdom,United Kingdom,Damaged,1
+2025-11,Depot B - United Kingdom,United Kingdom,Returned,3
+2025-11,Depot B - United Kingdom,France,Dispensed,13
+2025-11,Depot B - United Kingdom,France,Expired at Site,2
+2025-11,Depot B - United Kingdom,France,Returned,1
+2025-11,Depot B - United Kingdom,Spain,Dispensed,19
+2025-11,Depot B - United Kingdom,Spain,Expired at Site,2
+2025-11,Depot B - United Kingdom,Spain,Damaged,1
+2025-11,Depot B - United Kingdom,Spain,Returned,1
+2025-11,Depot B - United Kingdom,,Expired at Depot,1
+2025-11,Depot C - North America,United States,Dispensed,64
+2025-11,Depot C - North America,United States,Expired at Site,9
+2025-11,Depot C - North America,United States,Damaged,2
+2025-11,Depot C - North America,United States,Returned,7
+2025-11,Depot C - North America,Canada,Dispensed,26
+2025-11,Depot C - North America,Canada,Expired at Site,3
+2025-11,Depot C - North America,Canada,Damaged,1
+2025-11,Depot C - North America,Canada,Returned,2
+2025-11,Depot C - North America,,Expired at Depot,2
+2025-11,Depot D - Latin America,Brazil,Dispensed,36
+2025-11,Depot D - Latin America,Brazil,Expired at Site,8
+2025-11,Depot D - Latin America,Brazil,Damaged,1
+2025-11,Depot D - Latin America,Brazil,Returned,3
+2025-11,Depot D - Latin America,Mexico,Dispensed,16
+2025-11,Depot D - Latin America,Mexico,Expired at Site,4
+2025-11,Depot D - Latin America,Mexico,Damaged,1
+2025-11,Depot D - Latin America,Mexico,Returned,2
+2025-11,Depot D - Latin America,,Expired at Depot,4
+2025-11,Depot E - Asia Pacific,Japan,Dispensed,40
+2025-11,Depot E - Asia Pacific,Japan,Expired at Site,5
+2025-11,Depot E - Asia Pacific,Japan,Damaged,1
+2025-11,Depot E - Asia Pacific,Japan,Returned,3
+2025-11,Depot E - Asia Pacific,South Korea,Dispensed,23
+2025-11,Depot E - Asia Pacific,South Korea,Expired at Site,3
+2025-11,Depot E - Asia Pacific,South Korea,Returned,2
+2025-11,Depot E - Asia Pacific,Australia,Dispensed,15
+2025-11,Depot E - Asia Pacific,Australia,Expired at Site,3
+2025-11,Depot E - Asia Pacific,Australia,Returned,1
+2025-11,Depot E - Asia Pacific,,Expired at Depot,8
+2025-12,Depot A - Central EU,Germany,Dispensed,51
+2025-12,Depot A - Central EU,Germany,Expired at Site,6
+2025-12,Depot A - Central EU,Germany,Damaged,2
+2025-12,Depot A - Central EU,Germany,Returned,3
+2025-12,Depot A - Central EU,France,Dispensed,25
+2025-12,Depot A - Central EU,France,Expired at Site,3
+2025-12,Depot A - Central EU,France,Returned,2
+2025-12,Depot A - Central EU,Spain,Dispensed,20
+2025-12,Depot A - Central EU,Spain,Expired at Site,3
+2025-12,Depot A - Central EU,Spain,Damaged,1
+2025-12,Depot A - Central EU,Spain,Returned,1
+2025-12,Depot A - Central EU,,Expired at Depot,3
+2025-12,Depot B - United Kingdom,United Kingdom,Dispensed,41
+2025-12,Depot B - United Kingdom,United Kingdom,Expired at Site,5
+2025-12,Depot B - United Kingdom,United Kingdom,Damaged,1
+2025-12,Depot B - United Kingdom,United Kingdom,Returned,4
+2025-12,Depot B - United Kingdom,France,Dispensed,18
+2025-12,Depot B - United Kingdom,France,Expired at Site,2
+2025-12,Depot B - United Kingdom,France,Damaged,1
+2025-12,Depot B - United Kingdom,France,Returned,1
+2025-12,Depot B - United Kingdom,Spain,Dispensed,18
+2025-12,Depot B - United Kingdom,Spain,Expired at Site,3
+2025-12,Depot B - United Kingdom,Spain,Damaged,1
+2025-12,Depot B - United Kingdom,Spain,Returned,2
+2025-12,Depot B - United Kingdom,,Expired at Depot,3
+2025-12,Depot C - North America,United States,Dispensed,61
+2025-12,Depot C - North America,United States,Expired at Site,8
+2025-12,Depot C - North America,United States,Damaged,2
+2025-12,Depot C - North America,United States,Returned,4
+2025-12,Depot C - North America,Canada,Dispensed,23
+2025-12,Depot C - North America,Canada,Expired at Site,3
+2025-12,Depot C - North America,Canada,Damaged,1
+2025-12,Depot C - North America,Canada,Returned,1
+2025-12,Depot C - North America,,Expired at Depot,1
+2025-12,Depot D - Latin America,Brazil,Dispensed,28
+2025-12,Depot D - Latin America,Brazil,Expired at Site,6
+2025-12,Depot D - Latin America,Brazil,Damaged,1
+2025-12,Depot D - Latin America,Brazil,Returned,3
+2025-12,Depot D - Latin America,Mexico,Dispensed,22
+2025-12,Depot D - Latin America,Mexico,Expired at Site,5
+2025-12,Depot D - Latin America,Mexico,Returned,1
+2025-12,Depot D - Latin America,,Expired at Depot,5
+2025-12,Depot E - Asia Pacific,Japan,Dispensed,40
+2025-12,Depot E - Asia Pacific,Japan,Expired at Site,6
+2025-12,Depot E - Asia Pacific,Japan,Damaged,1
+2025-12,Depot E - Asia Pacific,Japan,Returned,4
+2025-12,Depot E - Asia Pacific,South Korea,Dispensed,22
+2025-12,Depot E - Asia Pacific,South Korea,Expired at Site,3
+2025-12,Depot E - Asia Pacific,South Korea,Damaged,1
+2025-12,Depot E - Asia Pacific,South Korea,Returned,2
+2025-12,Depot E - Asia Pacific,Australia,Dispensed,15
+2025-12,Depot E - Asia Pacific,Australia,Expired at Site,3
+2025-12,Depot E - Asia Pacific,Australia,Returned,1
+2025-12,Depot E - Asia Pacific,,Expired at Depot,5
