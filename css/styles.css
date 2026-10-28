@@ -1,0 +1,208 @@
+/* Drug Supply - Kit Flow
+   Page look follows materialDashboard; chart look follows the original Sankey.html (sankey-styles.css). */
+
+body {
+    margin: 0;
+    background: #fff;
+    color: #34495e;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 16px 40px;
+}
+
+.page-header {
+    padding: 20px 0 8px;
+}
+
+.page-header h2 {
+    margin: 0;
+    font-weight: normal;
+    color: rgb(86, 155, 190);
+}
+
+/* Chart card (as Sankey.html) */
+
+.chart-card {
+    margin-top: 12px;
+    background-color: white;
+    padding: 12px 20px 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Toolbar: filters on the left, playback on the right */
+
+.chart-toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px 24px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #eee;
+}
+
+.toolbar-group {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px 16px;
+    font-size: 13px;
+}
+
+.toolbar-group label {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.toolbar-group label[hidden] {
+    display: none;
+}
+
+.toolbar-group select {
+    max-width: 190px;
+    padding: 3px 6px;
+    font: inherit;
+    color: inherit;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+/* Single play / pause / replay button */
+.icon-btn {
+    width: 28px;
+    height: 28px;
+    padding: 0;
+    font-size: 11px;
+    line-height: 1;
+    color: rgb(86, 155, 190);
+    background: #fff;
+    border: 1px solid rgb(86, 155, 190);
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.icon-btn:hover {
+    background: #f2f8fb;
+}
+
+#monthSlider {
+    width: 160px;
+    accent-color: rgb(86, 155, 190);
+}
+
+.month-label {
+    min-width: 64px;
+    font-weight: bold;
+}
+
+#sankeyChartDivWrapper {
+    padding-top: 16px;
+    overflow-x: auto;
+}
+
+#sankeyChartDivWrapper svg {
+    display: block;
+    margin: 0 auto;
+}
+
+#sankeyChartDivWrapper text {
+    user-select: none;
+}
+
+.category-path {
+    fill: none;
+    stroke: #dadadd;
+    opacity: 0.2;
+}
+
+.label {
+    font-size: 12px;
+    font-weight: bold;
+    dominant-baseline: middle;
+}
+
+.start-label {
+    text-anchor: end;
+}
+
+.start-sublabel {
+    text-anchor: end;
+    font-size: 11px;
+    fill: #888;
+    dominant-baseline: middle;
+}
+
+.end-label {
+    text-anchor: start;
+}
+
+.start-title {
+    text-anchor: end;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.country-node {
+    fill: #bbb;
+}
+
+.country-label {
+    text-anchor: middle;
+    font-size: 11px;
+    paint-order: stroke;
+    stroke: white;
+    stroke-width: 4px;
+    stroke-linejoin: round;
+}
+
+/* Position is set every frame, so only opacity is transitioned (a transform
+   transition would lag behind each frame and make the dots judder) */
+.marker {
+    opacity: 0.8;
+    transition: opacity 100ms;
+}
+
+.marker-circle {
+    stroke-width: 1px;
+    stroke: white;
+}
+
+.ending-value {
+    text-anchor: start;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.dot-note {
+    margin: 6px 0 0;
+    text-align: right;
+    font-size: 12px;
+    color: #999;
+}
+
+/* Tooltip */
+
+.tooltip {
+    position: absolute;
+    padding: 10px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    font-size: 12px;
+    line-height: 1.5;
+    pointer-events: none;
+    z-index: 10;
+}
+
+.tooltip.hidden {
+    display: none;
+}

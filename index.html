@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drug Supply Optimization</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<div class="container">
+
+    <header class="page-header">
+        <h2>Drug Supply Optimization</h2>
+    </header>
+
+    <section class="chart-card">
+        <div class="chart-toolbar">
+            <div class="toolbar-group">
+                <label>Depot
+                    <select id="depotFilter">
+                        <option value="All">All depots</option>
+                    </select>
+                </label>
+                <!-- Only shown when a single depot is selected -->
+                <label id="countryToggle" hidden>
+                    <input type="checkbox" id="showCountries"> Show countries
+                </label>
+            </div>
+            <div class="toolbar-group">
+                <button id="playBtn" class="icon-btn" type="button" title="Pause" aria-label="Pause">&#10074;&#10074;</button>
+                <input id="monthSlider" type="range" min="0" max="0" step="1" value="0" aria-label="Month">
+                <span id="monthLabel" class="month-label"></span>
+            </div>
+        </div>
+
+        <div id="sankeyChartDivWrapper"></div>
+    </section>
+
+    <p class="dot-note">Each dot is up to 10 kits</p>
+
+</div>
+
+<div id="tooltip" class="tooltip hidden"></div>
+
+<script src="lib/d3.v7.min.js"></script>
+<script src="js/sankeyChart.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
